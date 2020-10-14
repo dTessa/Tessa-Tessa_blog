@@ -1,11 +1,11 @@
 ---
 title: "About Me"
 author:
-  - name: "___" 
+  - name: "Tessa Duhayon" 
 date: "`r Sys.Date()`"
 output: distill::distill_article
 ---
 
-This section must bu include a short presentation of you.
+Hello, I'm Tessa. I'm in the second year of biology at the university of Mons. My english teacher is Mrs. Bouchet.
 
-- first name/surname, teacher’s name, class name and academic year
+
