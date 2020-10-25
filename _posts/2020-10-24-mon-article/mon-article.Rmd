@@ -1,0 +1,37 @@
+---
+title: "Article 1 : Frequent Soft Drink Comsumption May Make Adolescents More Aggressive"
+description: 
+  
+author:
+  - name: Tessa Duhayon
+    url: {https://neurosciencenews.com/soft-drink-teen-aggression-16898/}
+date: 10-24-2020
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+**I - SOURCE OF THE ARTICLE WITH PUBLICATION DATE AND WORD COUNT:**
+
+Source of the article: https://neurosciencenews.com/soft-drink-teen-aggression-16898/ (20/08/20)
+
+Word count: 581
+
+**II - VOCABULARY**
+
+/
+
+**III - ANALYSIS TABLE ABOUT THE STUDY:**
+
+| Reaseachers                         | UAB (Sylvie Mrug)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        |
+| ----------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Published in? When (if mentioned) ? | Journal of adolescent health /                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           |
+| General topic                       | The impact of soft drink consumption on teens' aggressiveness                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            |
+| Procedure/What was examined         | Interviewed 5147 teens (11, 13, 16 years old) and their caregivers, they asked about the frequency of their soft drinks consumption, aggressive behaviors and depressive symptoms                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        |
+| Conclusions/Discovery               | soft drink consumption at ages 11 and 13 = more aggressiveness in the future, aggressive behavior at 13 years old = more soft drink consumption at the age of 16, soft drink consumption at 13 = fewer depressive symptoms but depressive symptoms didn't predict soft drink consumption, reducing the consumption intake of soft drink may reduce their aggressiveness but not their depressive symptoms, soft drink intake is more than 10 % of teens' total caloric intake, soft drinks are consumed daily by more than 20 % of high school students, impact on pediatric obesity and mental health, associated with teens'mental health and emotional problems, mental health may have an impact on the consumption of soft drinks   |
+| Remaining Questions                 | /                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        |
+ <https://rstudio.github.io/distill>.
+

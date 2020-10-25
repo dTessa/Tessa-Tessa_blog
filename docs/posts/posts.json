@@ -1,5 +1,22 @@
 [
   {
+    "path": "posts/2020-10-24-mon-article/",
+    "title": "Article 1 : Frequent Soft Drink Comsumption May Make Adolescents More Aggressive",
+    "description": {},
+    "author": [
+      {
+        "name": "Tessa Duhayon",
+        "url": {
+          "https://neurosciencenews.com/soft-drink-teen-aggression-16898/": {}
+        }
+      }
+    ],
+    "date": "2020-10-24",
+    "categories": [],
+    "preview": {},
+    "last_modified": "2020-10-25T21:21:03+01:00"
+  },
+  {
     "path": "posts/about/",
     "title": "About Me",
     "description": {},
@@ -9,10 +26,10 @@
         "url": {}
       }
     ],
-    "date": "2020-10-14",
+    "date": "2020-10-24",
     "categories": [],
     "preview": {},
-    "last_modified": "2020-10-14T11:59:29+02:00"
+    "last_modified": "2020-10-24T19:06:14+02:00"
   },
   {
     "path": "posts/2019-10-24-bacteria-antobiotics/",
