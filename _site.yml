@@ -11,12 +11,11 @@ navbar:
       href: "posts/about/index.html"
     - icon: fab fa-github
       href: https://github.com/dTessa/Tessa-Tessa_blog
-base_url: dTessa.github.io/Tessa-Tessa_blog
+base_url: http://dTessa.github.io/Tessa-Tessa_blog
 collections:
     posts:
-      share: [twitter, linkedin, facebook]
-      disqus: tessa-blog
-      #disqus: 
+     disqus: tessa-blog
+    share: [twitter, linkedin, facebook]
 output:
   distill::distill_article:
     css: style.css
