@@ -1,0 +1,40 @@
+---
+title: "graphic_description"
+Categorie:
+  -Data Sciences I
+description: |
+  A short description of the post.
+author:
+  - name: Tessa Duhayon
+    url: {}
+date: 11-17-2020
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+```{r setup}
+SciViews::R
+```
+
+```{r importation}
+data <- read("zooplankton", package = "data.io")
+```
+
+The chosen dataset resumes  1262 observations of 20 variables which are : the equivalent circular diameter, area, perimeter, feret diameter, ellipsoid major axis, ellipsoid minor axis, mean O.D., most frequent O.D., minimal O.D., maximal O.D., O.D. standard deviation, O.D. range, size, aspect ratio, elongation, compactness, transparency, circularity, integrated O.D. and eventually class.
+
+# Graphique
+```{r}
+chart(zooplankton, size ~ class) +
+  geom_point() +
+  coord_flip()
+```
+We can see that the "Cnidarian" class has the biggest individuals. Their size is well distributed on the graph. The "Protist" class has the smallest individuals. Their size don't exceed 0.3 mm approximately.
+
+Distill is a publication format for scientific and technical writing, native to the web.
+
+Learn more about using Distill at <https://rstudio.github.io/distill>.
+
