@@ -1,5 +1,75 @@
 [
   {
+    "path": "posts/2020-12-13-mon-article/",
+    "title": "Article 4 : Researchers identify molecular connection between meat, dairy diets and cancer risk",
+    "description": {},
+    "author": [
+      {
+        "name": "Tessa Duhayon",
+        "url": {
+          "https://neurosciencenews.com/soft-drink-teen-aggression-16898/": {}
+        }
+      }
+    ],
+    "date": "2020-12-13",
+    "categories": [],
+    "preview": {},
+    "last_modified": "2020-12-13T12:07:08+01:00"
+  },
+  {
+    "path": "posts/2020-12-06-mon-article/",
+    "title": "Article 3 : Plant-based diet boosts metabolism",
+    "description": {},
+    "author": [
+      {
+        "name": "Tessa Duhayon",
+        "url": {
+          "https://neurosciencenews.com/soft-drink-teen-aggression-16898/": {}
+        }
+      }
+    ],
+    "date": "2020-12-06",
+    "categories": [],
+    "preview": {},
+    "last_modified": "2020-12-06T18:14:46+01:00"
+  },
+  {
+    "path": "posts/2020-12-01-mon-article/",
+    "title": "Article 2 : Poor nutrition in school years may have created 20 cm height gap across nations",
+    "description": {},
+    "author": [
+      {
+        "name": "Tessa Duhayon",
+        "url": {
+          "https://neurosciencenews.com/soft-drink-teen-aggression-16898/": {}
+        }
+      }
+    ],
+    "date": "2020-12-01",
+    "categories": [],
+    "preview": {},
+    "last_modified": "2020-12-06T18:16:32+01:00"
+  },
+  {
+    "path": "posts/2020-11-17-graphicdescription/",
+    "title": "The variability of sizes in zooplankton species",
+    "description": {},
+    "author": [
+      {
+        "name": "Tessa Duhayon",
+        "url": {}
+      }
+    ],
+    "date": "2020-11-17",
+    "categories": [
+      "Data Sciences I"
+    ],
+    "preview": "posts/2020-11-17-graphicdescription/graphicdescription_files/figure-html5/unnamed-chunk-1-1.png",
+    "last_modified": "2020-12-06T18:26:30+01:00",
+    "preview_width": 1248,
+    "preview_height": 768
+  },
+  {
     "path": "posts/2020-10-24-mon-article/",
     "title": "Article 1 : Frequent Soft Drink Comsumption May Make Adolescents More Aggressive",
     "description": {},
@@ -14,7 +84,7 @@
     "date": "2020-10-24",
     "categories": [],
     "preview": {},
-    "last_modified": "2020-10-25T21:21:03+01:00"
+    "last_modified": "2020-12-06T18:17:41+01:00"
   },
   {
     "path": "posts/about/",
