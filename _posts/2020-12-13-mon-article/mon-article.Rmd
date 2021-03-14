@@ -17,7 +17,7 @@ knitr::opts_chunk$set(echo = FALSE)
 
 **1. Source of the article with publication date and word count**
 
-Source of the article : https://www.news-medical.net/news/20201022/Researchers-identify-molecular-connection-between-meat-dairy-diets-and-cancer-risk.aspx (13/12.20)
+Source of the article : https://www.news-medical.net/news/20201022/Researchers-identify-molecular-connection-between-meat-dairy-diets-and-cancer-risk.aspx (13/12/20)
 
 Word count : 537
 
