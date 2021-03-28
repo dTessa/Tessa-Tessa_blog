@@ -1,0 +1,41 @@
+---
+title: "Article 7 : Mediterranean-style diet linked to better thinking skills in later life"
+description: 
+author:
+  - name: Tessa Duhayon
+    url: {}
+date: 03-16-2021
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+**1. Source of the article with publication date and word count**
+
+Source of the article : https://www.sciencedaily.com/releases/2021/02/210210133340.htm (10/02/21)
+
+Word count : 426
+
+**2. Vocabulary**
+
+/
+
+**3. Analysis table about the study**
+
+| Questions                    | Answers                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  |
+| ---------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Researchers ?                | Researchers from the University of Edinburgh                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             |
+| Published in ? When ?        | /                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        |
+| General topic                | Mediterranean-style diet linked to better thinking skills in later life                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  |
+| Procedure/What was examined  | -more than 500 people aged 79 without dementia completed tests of problem solving, thinking speed, memory, and work knowledge + a questionnaire about their eating habits during the past year, -among the 500 participants, more than 350 underwent a magnetic resonance imaging brain scan in order to gain insights into their brain structure, -researchers used statistical models to see if there is a link between a person's diet and their thinking skills and brain health in later life                                                                                                       |
+| Conclusions/Discovery        | -people following a mediterranean-style diet had the highest cognitive function scores even if we take into account childhood IQ, smoking, physical activity and health factors. Even though the differences were small, they were statistically significant, -It seems like it's not the mediterranean diet itself which is associated with better thinking skills but the lower meat intake and the green leafy vegetables consumption. -two groups = same amount of white and grey matter mass and amount of white matter lesions, -The mediterranean diet is not associated with better brain health |
+| Remaining questions          | /                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        |
+
+Distill is a publication format for scientific and technical writing, native to the web.
+
+Learn more about using Distill at <https://rstudio.github.io/distill>.
+
