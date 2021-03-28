@@ -1,7 +1,7 @@
 [
   {
     "path": "posts/2021-03-14-mon-article/",
-    "title": "Article 5 : Childhood diet can alter the gut microbiome for life",
+    "title": "Article 7 : Childhood diet can alter the gut microbiome for life",
     "description": {},
     "author": [
       {
@@ -12,22 +12,7 @@
     "date": "2021-03-14",
     "categories": [],
     "preview": {},
-    "last_modified": "2021-03-14T18:50:26+01:00"
-  },
-  {
-    "path": "posts/2021-03-16-mon-article/",
-    "title": "Article 7 : Mediterranean-style diet linked to better thinking skills in later life",
-    "description": {},
-    "author": [
-      {
-        "name": "Tessa Duhayon",
-        "url": {}
-      }
-    ],
-    "date": "2021-03-14",
-    "categories": [],
-    "preview": {},
-    "last_modified": "2021-03-28T12:18:39+02:00"
+    "last_modified": "2021-03-28T12:26:55+02:00"
   },
   {
     "path": "posts/2021-03-15-mon-article/",
@@ -42,7 +27,22 @@
     "date": "2021-03-14",
     "categories": [],
     "preview": {},
-    "last_modified": "2021-03-28T12:18:52+02:00"
+    "last_modified": "2021-03-28T12:27:53+02:00"
+  },
+  {
+    "path": "posts/2021-03-16-mon-article/",
+    "title": "Article 5 : Mediterranean-style diet linked to better thinking skills in later life",
+    "description": {},
+    "author": [
+      {
+        "name": "Tessa Duhayon",
+        "url": {}
+      }
+    ],
+    "date": "2021-03-14",
+    "categories": [],
+    "preview": {},
+    "last_modified": "2021-03-28T12:28:13+02:00"
   },
   {
     "path": "posts/2020-12-13-mon-article/",
@@ -57,7 +57,7 @@
     "date": "2020-12-13",
     "categories": [],
     "preview": {},
-    "last_modified": "2021-03-14T18:15:22+01:00"
+    "last_modified": "2021-03-28T12:22:43+02:00"
   },
   {
     "path": "posts/2020-12-06-mon-article/",

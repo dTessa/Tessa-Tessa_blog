@@ -1,7 +1,6 @@
 ---
 title: "Article 4 : Researchers identify molecular connection between meat, dairy diets and cancer risk"
-description: |
-  
+description: 
 author:
   - name: Tessa Duhayon
     url:
