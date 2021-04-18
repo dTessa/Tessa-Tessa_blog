@@ -1,5 +1,5 @@
 ---
-title: "Article 6 : Low level alcohol use during pregnancy can impact child's brain development"
+title: "Article 7 : Low level alcohol use during pregnancy can impact child's brain development"
 description: 
 author:
   - name: Tessa Duhayon

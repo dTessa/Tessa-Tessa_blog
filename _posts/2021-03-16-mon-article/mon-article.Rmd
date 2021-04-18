@@ -1,5 +1,5 @@
 ---
-title: "Article 5 : Mediterranean-style diet linked to better thinking skills in later life"
+title: "Article 6 : Mediterranean-style diet linked to better thinking skills in later life"
 description: 
 author:
   - name: Tessa Duhayon

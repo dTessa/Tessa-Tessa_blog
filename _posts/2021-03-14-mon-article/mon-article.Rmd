@@ -1,5 +1,5 @@
 ---
-title: "Article 7 : Childhood diet can alter the gut microbiome for life"
+title: "Article 5 : Childhood diet can alter the gut microbiome for life"
 description:
 author:
   - name: Tessa Duhayon
