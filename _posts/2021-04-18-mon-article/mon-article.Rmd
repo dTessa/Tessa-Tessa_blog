@@ -1,0 +1,21 @@
+---
+title: "Introduction"
+description:
+author:
+  - name: Tessa Duhayon
+    url: {}
+date: 04-17-2021
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+The topic of my portfolio is "How does what we eat affect us?". I've always been really interested in nutrition, I remember the first times I got into nutrition I was so excited to learn new things, I was reading studies on nutrition and my thirst to learn wasn't filled. Also I've always been self-conscious about what I put into my body so Because I want the best for my body, I make sure that what I'm eating is great quality food, good for my health and makes me feel good mentally. All of this combined made me choose this topic. My portfolio contains 7 articles which describe how what we eat affect us. I've tried to choose articles which cover different aspects of the topic. The first article is about how soft drinks consumption impact adolescents behaviour, the second article talks about how poor nutrition created height gaps across nations, the third one talks about how a plant based boost metabolism, the fourth is about the molecular connection between meat, dairy diets and cancer risk, the fifth is about childhood diet and how it can alter the gut microbiome for life, the sixth talks about the mediterranean diet which is linked to better thinking skills in later life and my last article is on how the use of low alcohol levels during pregnancy can impact the child's brain developpement.
+
+Distill is a publication format for scientific and technical writing, native to the web.
+
+Learn more about using Distill at <https://rstudio.github.io/distill>.
+
