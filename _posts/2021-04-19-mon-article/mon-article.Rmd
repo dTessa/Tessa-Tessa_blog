@@ -1,0 +1,25 @@
+---
+title: "Conclusion"
+description: 
+author:
+  - name: Tessa Duhayon
+    url: {}
+date: 04-19-2021
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+I've finally finished putting together my portofolio. I've learned a lot through the process of making my portfolio. I’ve once again realised the necessity of tidying my work. Although I utterly hate tidying my work because I find it very boring, I think it’s very important because even if you have made an outstanding work if it isn’t well put together people won’t bother to look at it.
+ Now I’ll talk about what I’ve learned through my articles : with the first article I've learned that fizzy drinks have a negative effect on teens’ behavior so it's important for parents to limit their teens' consumption. Then the second article has highlighted the necessity of good nutrition, indeed poor nutrition has created a height gap across nations. The third one stated that the plant-based diet has beneficial effects on weight loss because it increases the metabolism. The fourth article identified the link between meat, dairy diets and cancer risk : the Neu5Gc sugar present in those 3. With the fifth article I've learned the importance of eating right early on because it's kind of your base and if your base is not good it has horrific consequences. Then the sixth article made me learn that eating a diet that is rich in leafy greens improves thinking skills in later life. Finally with the seventh article, I've learned that alcohol can be very damaging even in little doses to the child's brain development. 
+Overall I think that we have to be aware of what we are eating and try to make the best choices for ourselves. Nutrition should be the center of our attention, we should put more of our salary on it rather than spending it on material things because at the end of the day, material things can break and you can replace it really quickly but if your body is  « broken » it's much more difficult to put it back in one piece.
+
+
+Distill is a publication format for scientific and technical writing, native to the web.
+
+Learn more about using Distill at <https://rstudio.github.io/distill>.
+

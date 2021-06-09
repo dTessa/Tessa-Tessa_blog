@@ -1,0 +1,33 @@
+---
+title: "Bibliography"
+description:
+author:
+  - name: Tessa Duhayon
+    url: {}
+date: 04-19-2021
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+-/, Frequent Soft Drink Consumption May Make Adolescents More Aggressive, https://neurosciencenews.com/soft-drink-teen-aggression-16898/ (consulted on the 23th of October)
+
+-/, Poor nutrition in school years may have created 20 cm height gap across nations, https://www.sciencedaily.com/releases/2020/11/201105183840.htm (consulted on the 31th of november)
+
+-/,Study: Plant-based diet boosts metabolism, https://www.news-medical.net/news/20201130/Study-Plant-based-diet-boosts-metabolism.aspx (consulted on the 5th of December)
+
+-/, Researchers identify molecular connection between meat, dairy diets and cancer risk, https://www.news-medical.net/news/20201022/Researchers-identify-molecular-connection-between-meat-dairy-diets-and-cancer-risk.aspx (consulted on the 13th of December)
+
+-/, Childhood diet can alter the gut microbiome for life, https://www.news-medical.net/news/20210203/Childhood-diet-can-alter-the-gut-microbiome-for-life.aspx (consulted on the 13th of March)
+
+-/, Mediterranean-style diet linked to better thinking skills in later life, https://www.sciencedaily.com/releases/2021/02/210210133340.htm (consulted on the 14th of March)
+
+-/, Low level alcohol use during pregnancy can impact child's brain development, https://www.sciencedaily.com/releases/2020/09/200925113422.htm (consulted on the 14th of March)
+
+Distill is a publication format for scientific and technical writing, native to the web.
+
+Learn more about using Distill at <https://rstudio.github.io/distill>.
+
